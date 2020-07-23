@@ -1,0 +1,4 @@
+ignoreFiles = [ ".idea", ".vscode",  ".git", "README.md" , ".html$" ]
+
+
+
